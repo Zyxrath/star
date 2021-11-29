@@ -16,3 +16,10 @@ button {
     border-radius: 0 0 5em 1em;
     padding: 10em 20em 10em 10em;
 }
+
+.attribute {
+    margin-top: 13em;
+    margin-left: 4em;
+    height: 50px;
+    width: 300px;
+}
