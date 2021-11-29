@@ -1,5 +1,5 @@
 # Star
-Inspired by Bootstrap, Star is a lite, simple and opensouce CSS framework.
+Inspired by Bootstrap, Star is a lite, simple and opensource CSS framework.
 
 ## FAQ
 
