@@ -1,0 +1,23 @@
+ul {
+    margin: -15em 0 0 50em;
+    height: 90px;
+    width: 300px;
+}
+
+button {
+    margin-left: 49em;
+}
+
+.shape {
+    width: 10%;
+    background-color: #EEEEEE;
+    border-radius: 0 0 5em 1em;
+    padding: 10em 20em 10em 10em;
+}
+
+.attribute {
+    margin-top: 15em;
+    margin-left: 2em;
+    height: 50px;
+    width: 300px;
+}
