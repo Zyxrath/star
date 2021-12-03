@@ -7,7 +7,7 @@ Inspired by Bootstrap, Star is a lite, simple, and opensource CSS framework.
 Paste the following HTML code to use Star.
 
 ```bash
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zyxrath/star@v1.0.5/src/css/star.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zyxrath/star@v1.10/src/css/star.min.css">
 ```
 
 ## FAQ
